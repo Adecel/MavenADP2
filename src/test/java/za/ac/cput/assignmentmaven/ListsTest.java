@@ -1,12 +1,5 @@
 package za.ac.cput.assignmentmaven;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
@@ -21,7 +14,8 @@ import org.junit.jupiter.api.Timeout;
 
 /**
  *
- * @author ChanteLewis_216118395
+ * @author ChanteLewis
+ * My student nr.: 216118395
  */
 public class ListsTest {
 
